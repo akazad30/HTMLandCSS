@@ -1,0 +1,308 @@
+*
+  {
+  margin:0;
+  padding:0
+  }
+  
+  body
+	{
+	font-family:Arial;
+	font-size:14px;
+	line-height:20px;
+	background-color:#E2E2E2
+   }
+.main
+        {
+	 width:960px;
+	 margin:0 auto;
+	 display:block;
+     overflow:hidden
+	 }
+	 
+.header
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F7F7F5;
+	
+		}
+
+.logo{
+
+       width:400px;
+	   display:block;
+	   overflow:hidden;
+	   margin-top:30px;
+	   float:left
+		}
+.logo img
+		{
+		width:80px;
+		margin-bottom:20px;
+        margin-left:40px
+		}		
+		
+		
+
+.menu
+		{
+
+       width:500px;
+	   display:block;
+	   overflow:hidden;
+	   margin-left:10px;
+	   float:right;
+	   margin-top:20px
+		}
+
+.menu ul 
+            {
+	    list-style:none
+	   }
+	   
+.menu ul li
+		{
+		float:left;
+		margin-left:10px
+		}
+		
+.menu li a
+		{
+		text-decoration:none;
+		color:black;
+		margin-left:10px;
+		margin-top:30px
+
+		}
+		
+.menu  li a:hover
+                         {
+			   background-color:#648A27
+			  }
+.slider
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F7F7F5;
+	
+		}
+.img  img
+		{width:960px;
+		overflow:hidden;
+		display:block;
+		margin-bottom:20px;
+		border-radius:10px solid #ddd}
+		
+.content
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:10px;
+		margin-left:15px;
+        border-top:20px;
+		background:#F7F7F5;
+	
+		}
+		
+.one
+		{
+		width:310px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:10px;
+        border-top:20px;
+		background:#F7F7F5;
+		float:left
+	
+		}
+		
+.two
+		{
+		width:310px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:10px;
+        border-top:20px;
+		background:#F7F7F5;
+		float:left
+		}
+
+.three
+		{
+		width:310px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:10px;
+        border-top:20px;
+		background:#F7F7F5;
+		float:left
+	
+		}	
+.sidebar
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+        margin-bottom:7px;
+        border-top:30px;
+		background:white;
+		
+	
+		}	
+.sidebar_left
+		{
+		width:450px;
+		display:block;
+		overflow:hidden;
+	    margin-left:10px;
+        border-top:10px;
+		background:white;
+		float:left
+	
+		}	
+.sidebar_right
+		{
+		width:450px;
+		display:block;
+		overflow:hidden;
+	  
+        border-top:30px;
+		background:white;
+		float:right
+	
+		}			
+		
+.in {
+	width:300px;
+	float:left;
+		display:block;
+		overflow:hidden;
+		
+	}	
+	
+.in  h1
+		{
+		float:left;
+		width:250px;
+		margin-top:10px;
+		line-height:30px
+		}
+
+		
+.sidebar_bottom
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	  
+        border-top:30px;
+		background:#F5F5F3;
+	
+		}	
+.top
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F5F5F3;
+		margin-left:10px
+	
+		}		
+		
+.bam
+		{
+		width:450px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F5F5F3;
+		float:left
+		}	
+.dan
+		{
+		width:450px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F5F5F3;
+		margin-right:10px;
+		float:right
+		}	
+.bottom
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:#F5F5F3;
+	
+		}	
+.img1
+		{
+		margin-left:30px;
+		width:300px;
+		float:left;
+		overflow:hidden;
+		display:block;
+		
+		}
+.img2
+		{
+		margin-left:20px;
+		width:300px;
+		float:left;
+		overflow:hidden;
+		display:block
+		}
+	.img3
+		{
+		margin-left:10px;
+		width:300px;
+		float:right;
+		overflow:hidden;
+		display:block
+		}	
+.footer
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+	    margin-bottom:15px;
+        border-top:30px;
+		background:gray;
+		padding:5px
+	
+		}
+.footer_left
+			{
+			 width:450px;
+			display:block;
+			overflow:hidden;
+			margin-bottom:15px;
+			 float:left;
+			 padding:4px
+			}
+			
+.footer_right
+			{
+			width:450px;
+			display:block;
+			overflow:hidden;
+			margin-bottom:15px;
+			float:right;
+			margin-left:20px;
+			margin-right:5px;
+			padding:5px
+			}			

@@ -1,0 +1,18 @@
+*{margin:0;padding:0}
+body{font-family:Arial;font-size:10px}
+.main{width:960px;margin:20px auto;display:block;background:url(images/1.jpg) repeat fixed #fff}
+.fix{}
+.header{margin-left: 0px;
+margin-top:11px;line-height:100px;
+color:#E9Fe3D;background:#085A7F;text-height:300px;text-align:center}
+.slider{width:960px;height:50px;margin-top:25px;background:#DDE865}
+
+.slider new{}
+.slider  ul{margin:0;paddiing:0;list-style:none}
+.slider  ul li{float:left}
+.slider ul li a{display:block;padding:10px;text-decoration:none}
+.slider ul li a:hover{color:#000}
+.maincontent{margin-top:80px;background:#E4E4E4;width:960px}
+.maincontent h2{margin:5px;padding:9px;text-align:center;color:#F43400}
+.maincontent title{margin:5px;padding:8px;overflow:hidden}
+.maincontent h1{margin-top:400px;text-align:center;color:#007AC2;padding:10px}

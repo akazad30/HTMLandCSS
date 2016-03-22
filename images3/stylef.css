@@ -1,0 +1,284 @@
+*
+  {
+  margin:0;
+  padding:0
+  }
+  
+  body
+	{
+	font-family:Arial;
+	font-size:14px;
+	line-height:20px;
+	background-color:#E2E2E2
+   }
+.main
+        {
+	 width:960px;
+	 margin:0 auto;
+	 display:block;
+     overflow:hidden
+	 }
+	 
+.header
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+		background:#F9F9F9;
+		border-bottom:10px solid #C1EA4E
+		}	 
+		
+.logo img
+		{
+		margin-left:200px;
+		margin-bottom:10px
+		}	 
+
+.menu
+		{
+		width:960px;padding:20px;
+		margin-bottom:15px solid #ddd;
+		margin-left:50px
+		}
+   
+.content
+		{
+		width:960px;
+		display:block;
+        overflow:hidden;
+		margin:5px;
+		background:#F9F9F9
+		} 
+		  
+.content_left
+			{
+			width:460px;
+			display:block;
+			overflow:hidden;
+			float:left
+			}
+
+.top
+	{
+	width:460px;
+	margin-left:6px;
+	padding:10px;
+	margin-bottom:10px
+	}
+	
+ .top h1
+		{
+		margin-bottom:15px
+		}  
+ 
+ .mid
+	{
+	width: 484px;
+	height: 87;
+	background-color: #E4E4E4;
+	margin-bottom:10px;
+	padding:6px
+	}
+
+ .msg
+	{
+	width: 484px;
+	height: 87;
+	background-color: #E4E4E4;
+	margin-bottom:10px;
+	padding:6px;
+	margin-top:30px
+	}
+	
+.msg h1
+		{
+			margin-bottom:20px
+		}
+
+ .bottom
+		{
+		width: 40px;
+		height:25px;
+		background-color: black;
+		margin-bottom:10px;
+		padding:6px
+		}
+
+
+
+.content_right
+			{
+			width:460px;
+			display:block;
+			overflow:hidden;
+			float:right
+			}
+   
+ .first h2
+		{
+		padding:10px;
+        margin-bottom:15px
+		} 
+		
+.second
+		{
+		width:460px;
+		display:block;
+		overflow:hidden;
+		}	
+
+.second ul
+		{
+		list-style:none
+		}
+.second ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.second li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.second  li a:hover
+		{	
+		background-color:#648A27
+		}  
+   	
+   
+ .second h2{padding:10px;
+         margin-bottom:15px;
+		 margin-top:14px} 
+
+ 		
+.third
+		{
+		width:460px;
+		display:block;
+		overflow:hidden;
+		margin-bottom:25px
+		}	
+
+.third ul
+		{
+		list-style:none
+		}
+.third ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.third li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.third  li a:hover
+		{	
+		background-color:#648A27
+		}  
+   	
+   
+ .third h2
+		{
+		padding:10px;
+         margin-bottom:15px;
+		 margin-top:14px
+		 } 
+  
+   
+ .last
+	{
+	width:960px;
+    overflow:hidden;
+	display:block;
+	background-color:#090803;
+	 }  
+ h1
+	{
+	color:white;padding:10px;
+	margin-bottom:15px
+	} 
+
+ 
+ .bam
+	{
+		width:500px;
+		display:block;
+		overflow:hidden;
+		margin-right:15px;
+		float:left
+		} 
+ 
+ .archive
+		{
+	      width:240px;
+          display:block;
+		  overflow:hidden;
+		  float:left
+		 }
+
+.archive ul
+		{
+		list-style:none
+		}
+.archive ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.archive li a
+		{	
+		text-decoration:none;
+	
+	
+		}
+.archive  li a:hover
+		{	
+		background-color:white
+		}  		  
+
+ .cat
+		{
+		  width:240px;
+          display:block;
+		  overflow:hidden;
+		  float:right
+		}	
+		  
+
+.cat ul
+		{
+		list-style:none
+		}
+.cat ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.cat li a
+		{	
+		text-decoration:none;
+	
+		}
+.cat  li a:hover
+		{	
+		color:white
+		}    
+
+ .gallerry
+		  {
+		  width:440px;
+          display:block;
+		  overflow:hidden;
+		  float:right
+		  }	 
+.footer
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+		background:gray
+		}	
+		  

@@ -1,0 +1,44 @@
+*{margin:0;padding:0}
+body{background:url(imgages/background.png) repeat fixed 0 0;font-family:arial;font-size:14px;
+    font-style:italic;line-height:20px}
+h1,h2,h3,h4,h5{font-weight:normal;margin-bottom:15px}
+a {color:#3E6B9C}
+a:hover{text-decoration:none}
+.structure{width:960px;margin:0 auto;display:block}	
+.floatleft{float:left}
+.floatright{float:right}
+.fix{overflow:hidden}
+.header_area{}
+.header{}
+.logo{margin:25px 0}
+.mainmenu{margin-top:37px}
+.mainmenu ul{margin:0;padding:0;list-style:none}
+.mainmenu ul li{float:left;margin-right:10px}
+.mainmenu ul li a{padding:5px 10px;text-decoration:none;font-weight:bold;text-transform:uppercase;color:#000}
+.mainmenu ul li a:hover{background:#000;color:#fff;border-radius:5px}
+.slider_area{}
+.slider{border:1px solid #ddd;border-radius:5px;margin-bottom:50px}
+.images{margin:5px;background:url(slider_background.png)repeat;padding:27px;width:100%}
+.images img{padding:5px;background:#fff}
+.promo_area{margin-bottom:30px}
+.promo{}
+.single_promo{margin-right:70px;width:270px}
+.last_child{margin-right:0}
+.quto_area{margin-bottom:45px;}
+.quto{padding:0px;background:#ddd;margin:1px solid #ddd;font-size:22px;margin-top:30px}
+.quto_left{}
+.quto_left p{padding:10px}
+.quto_right{}
+.quto_right p{padding:10px;float:left}
+.quto_right a{background:url(quto_background.png)repeat;border-radius:5px}
+.quto_bottom_area{}
+.quto_bottom{}
+.quto_bottom_left{float:left;margin:20px;width:700px}
+.quto_bottom_right{float:right;margin:5px right;width:200px}
+.promo_bottom_area{}
+.promo_bottom{}
+.single_promo_bottom{}
+.footer_area{}
+.footer{}
+.footer_left{}
+.footer_right{}

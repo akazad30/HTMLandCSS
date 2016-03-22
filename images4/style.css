@@ -1,0 +1,313 @@
+*
+  {
+  margin:0;
+  padding:0
+  }
+  
+  body
+	{
+	font-family:Arial;
+	font-size:14px;
+	line-height:20px;
+	background-color:#E2E2E2
+   }
+.main
+        {
+	 width:960px;
+	 margin:0 auto;
+	 display:block;
+     overflow:hidden
+	 }
+	 
+.header
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+		background:#283442;
+		}	 
+
+.start
+		{
+			width:550px;
+			 padding:15px;
+			 float:left
+		}
+			 
+			 
+ .log
+	{
+		width:200px;
+		margin-right:10px;
+		float:left
+		}
+		
+ .text
+		{
+		width:300px;
+		float:right;
+		color:white
+		}
+		
+		
+.menu
+	{
+	float:right;
+	display:block;
+	overflow:hidden;
+	margin-right:10px]
+	}
+  
+.menu ul
+		{
+		list-style:none
+		}
+.menu ul li
+		{
+		padding:5px;
+	    float:left
+		}	
+.menu li a
+		{	
+		text-decoration:none;
+		float:left;
+		color:white;
+		margin-right:8px;
+		border-right:2px solid #ddd
+		}
+.menu  li a:hover
+		{	
+		background-color:#648A27
+		}  
+		
+.slider
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+		background:#5B728A;
+
+		margin-top:3px
+		}	
+		
+		
+.upper_text h1
+			{
+			color:white
+			}
+			
+			
+.slider_left
+			{
+			width:450px;
+			 padding:10px;
+			 float:left;
+			 overflow:hidden;display:block
+			 }
+			 
+ .upper_text
+			{
+			width:550px;
+			 margin-right:10px;
+			  border-bottom:2px solid #ddd;
+			  float:left;
+			  padding:10px;
+			  margin-top:25px}
+		
+ .lower_text
+		{
+		width:550px;
+
+		 color:white;
+		 margin-top:40px;
+		 margin-bottom:40px;
+		 padding:25px
+		 }
+
+ .slider_right
+	{
+	float:right;
+	width:400px;
+	display:block;
+	overflow:hidden;
+	margin-right:10px
+	}	
+
+.content
+		{
+			width:960px;
+		  display:block;
+		  overflow:hidden;
+		  background:white;
+		  padding:8px;
+		  margin-bottom:39px
+		  }  
+  
+.first h1
+		{
+		padding:4px;
+		margin-bottom:15px
+		} 
+		
+.second h1
+		{
+		padding:4px;
+		margin-bottom:15px
+		}
+		
+.third h1
+		{
+		padding:4px;
+		margin-bottom:15px
+		}
+  
+  
+.first
+		{
+		width:305px;
+		display:block;
+		overflow:hidden;
+		margin-right:10px;
+		margin-bottom:10px;
+		float:left;
+		}  
+		
+.second
+		{width:305px;
+		display:block;
+		overflow:hidden;
+		margin-right:10px;
+		margin-bottom:10px;
+		float:left
+		}  
+		
+.third
+		{
+		width:305px;
+		display:block;
+		overflow:hidden;
+		margin-right:10px;
+		margin-bottom:10px;
+		float:left
+		}  
+
+.box
+	{
+	width:950px
+	}
+
+.content_bottom
+			{
+				width:960px;
+			   display:block;
+			   overflow:hidden;
+			   background:#9CB3C9
+			   }
+			   
+
+.one
+		{
+		width:300px;
+		display:block;
+		overflow:hidden;
+		margin-bottom:25px;
+		float:left
+		}	
+
+.one ul
+		{
+		list-style:none
+		}
+.one ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.one li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.one  li a:hover
+		{	
+		background-color:#648A27
+		}
+   .one   h2{margin-bottom:10px;
+        padding:10px;
+           border-radius:2px solid #ddd;
+		   border-bottom:10px}
+		   
+
+.two
+		{
+		width:300px;
+		display:block;
+		overflow:hidden;
+		margin-bottom:25px;
+		float:left
+		}	
+
+.two ul
+		{
+		list-style:none
+		}
+.two ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.two li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.two  li a:hover
+		{	
+		background-color:#648A27
+		}
+   .two   h2{margin-bottom:10px;
+        padding:10px;
+           border-radius:2px solid #ddd;
+		   border-bottom:10px}	
+
+
+.three
+		{
+		width:300px;
+		display:block;
+		overflow:hidden;
+		margin-bottom:25px;
+		float:left
+		}	
+
+.three ul
+		{
+		list-style:none
+		}
+.three ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.three li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.three  li a:hover
+		{	
+		background-color:#648A27
+		}
+   .three   h2{margin-bottom:10px;
+        padding:10px;
+           border-radius:2px solid #ddd;
+		   border-bottom:10px}	
+		   
+.footer
+		{
+		width:960px;
+		display:block;
+		overflow:hidden;
+		background:#50677C
+		}		   
+		   

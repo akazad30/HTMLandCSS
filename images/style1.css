@@ -1,0 +1,155 @@
+*
+  {
+  margin:0;
+  padding:0
+  }
+  
+body
+	{
+	font-family:Arial;
+	font-size:14px;
+	line-height:20px;
+	color:#000;
+	background:url(image/background.jpg) repeat fixed #ddd
+	}
+	
+.main
+        {
+	 width:960px;
+	 margin:0 auto;
+	 display:block;
+     overflow:hidden
+	 }
+	 
+.header img
+                  {
+		   width:960px
+		  }
+.content
+		{
+		width:960px;
+		overflow:hidden;
+	    background:#A6A6A6A;
+	    background-color:#DDE865
+		}
+.text
+		{
+		float:left;
+		width:600px;
+		margin-right:30px;
+		}
+
+
+.menu 
+        {
+	float:right;
+	width:330px;
+	margin-bottom:1px solid #EDEDED
+	}
+.menu ul
+		{
+		list-style:none
+		}
+.menu ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.menu li a
+		{	
+		text-decoration:none;
+		color:#000
+		}
+.menu  li a:hover
+		{	
+		background-color:#648A27
+		}
+	 
+.slider
+		{
+		width:960;
+		display:block;
+        overflow:hidden;
+		background:#BCDDD1;
+		color:A6A6A6
+		}
+.one img
+		{
+		width:310px;
+		float:left;
+		margin-right:10px
+		}
+.two
+		{ 
+		width:367px;
+		margin-right:1opx;
+		float:left
+		}
+.three
+		{
+		width:250px;
+		float:right;
+		margin-bottom:1px solid #EDEDED
+		}
+.three ul
+		{
+		list-style:none
+		}
+.three ul li
+		{
+		padding:5px;
+		border-bottom:1px solid #ddd
+		}	
+.three li a
+		{
+		text-decoration:none;
+		color:#000
+		}
+		
+.three li a:hover
+				{
+				background-color:#648A27
+				}	
+
+.myclass
+		{
+		width:960px;
+		background:#95C93A;
+		background-color:#84C67B;
+		overflow:hidden;
+		display;block
+		}
+.mypic img
+			{
+			width:250px;
+			float:left;
+			background:#A6A6A6;
+			color:black
+			}
+.mar
+	{
+	width:710px;
+	float:right;
+	color:#EDEDED
+	}
+	
+.footer
+		{
+		width:960;
+		display:block;
+        overflow:hidden;
+		background:#BCDDD1;
+		color:A6A6A6
+		}
+.left
+	{
+	float:left;
+	width:450px;
+	color:#6B20FF
+	}
+.date
+       {
+	   float:right;
+	   color:#6B20FF
+	   }	 
+		 
